@@ -1,4 +1,4 @@
-package exercises.porgramming.exercise10_1;
+package exercises.porgramming.exercises.ex10_1;
 
 public class Time {
     private int hour;
